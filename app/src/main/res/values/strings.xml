@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="prev_btn">Previous</string>
+    <string name="nxt_btn">Next</string>
+
+    <string name="img_1_content_desc">Henry David Thoreau</string>
+    <string name="img_1_text_desc">"Go confidently in the direction of your dreams. Live the life you have imagined."</string>
+    <string name="img_1_author">~Henry David Thoreau</string>
+    <string name="img_1_credit_desc">Mr Stills Shot (2024)</string>
+
+    <string name="img_2_content_desc">Nora Ephron</string>
+    <string name="img_2_text_desc">"Your education is a dress rehearsal for a life that is yours to lead."</string>
+    <string name="img_2_author">~Nora Ephron</string>
+    <string name="img_2_credit_desc">Mr Stills Shot (2024)</string>
+
+    <string name="img_3_content_desc">Eleanor Roosevelt</string>
+    <string name="img_3_text_desc">"The future belongs to those who believe in the beauty of their dreams."</string>
+    <string name="img_3_author">~Eleanor Roosevelt</string>
+    <string name="img_3_credit_desc">Mr Stills Shot (2024)</string>
+
+    <string name="img_4_content_desc">Ralph Waldo Emerson</string>
+    <string name="img_4_text_desc">"What lies behind us and what lies before us are tiny matters compared to what lies within us." </string>
+    <string name="img_4_author">~Ralph Waldo Emerson</string>
+    <string name="img_4_credit_desc">Mr Stills Shot (2024)</string>
+
+    <string name="img_5_content_desc">Steve Jobs</string>
+    <string name="img_5_text_desc">"The only way to do great work is to love what you do."</string>
+    <string name="img_5_author">~Steve Jobs</string>
+    <string name="img_5_credit_desc">Mr Stills Shot (2024)</string>
+
+    <string name="img_6_content_desc">Nelson Mandela</string>
+    <string name="img_6_text_desc">"Education is the most powerful weapon which you can use to change the world."</string>
+    <string name="img_6_author">~Nelson Mandela</string>
+    <string name="img_6_credit_desc">Mr Stills Shot (2024)</string>
+
+
+
+
+</resources>
