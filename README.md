@@ -1,3 +1,4 @@
+# ArtSpace App
 This App is part of the codelab test on developer.android.com
 
 I was able to Learn about
@@ -6,9 +7,12 @@ I was able to Learn about
 - Stateless Composables
 - State Hoisting
 
-I implemented an ArtSpace app where a user can navigate on the available art pieces with the help of a button
+ I implemented an ArtSpace app where a user can navigate on the available art pieces with the help of a button
 
-Future Features to implement
+ <img src="https://github.com/njonge-nathan/ArtSpace-App/assets/79893000/22e16e23-146e-4e73-8b36-c5728cd43bd0" alt="App Development" width="500" height="1000">
+
+
+## Future Features to implement
 
 - ability to download an artpiece
 - ability to navigate on swipe
@@ -17,4 +21,3 @@ Future Features to implement
 - user ability to choose the favourite art category
 - user ability to comment on an artpiece.
 
-  ![image](https://github.com/njonge-nathan/ArtSpace-App/assets/79893000/22e16e23-146e-4e73-8b36-c5728cd43bd0)
